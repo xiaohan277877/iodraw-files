@@ -11,10 +11,10 @@
           <mxGeometry x="149" y="119" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-122" value="训练模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="26" y="257" width="125" height="49" as="geometry" />
+          <mxGeometry x="20" y="257" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-123" value="生成数据集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="330" width="130" height="50" as="geometry" />
+          <mxGeometry x="30" y="330" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-124" value="DenoiseCNN训练" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3" y="459" width="179" height="49" as="geometry" />
