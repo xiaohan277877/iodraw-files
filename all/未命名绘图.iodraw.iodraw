@@ -32,10 +32,10 @@
           <mxGeometry x="110" y="610" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-128" value="单样本去噪对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="936" width="173" height="49" as="geometry" />
+          <mxGeometry y="690" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-129" value="批量对比实验" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="243" y="936" width="158" height="49" as="geometry" />
+          <mxGeometry x="200" y="690" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-120" target="sRIhw2hVqTCFYBx5-HW0-121">
           <mxGeometry relative="1" as="geometry">
@@ -83,20 +83,6 @@
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-137" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-126" target="sRIhw2hVqTCFYBx5-HW0-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sRIhw2hVqTCFYBx5-HW0-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-127" target="sRIhw2hVqTCFYBx5-HW0-128">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="911" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sRIhw2hVqTCFYBx5-HW0-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-127" target="sRIhw2hVqTCFYBx5-HW0-129">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="322" y="911" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-122" target="sRIhw2hVqTCFYBx5-HW0-122">
