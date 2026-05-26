@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="520" dy="819" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="520" dy="419" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="195" y="29" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-100" value="训练模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="-54" width="71" height="142" as="geometry" />
+          <mxGeometry x="394" y="40" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-101" value="生成数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="-54" width="67" height="143" as="geometry" />
+          <mxGeometry x="568" y="40" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-102" value="DenoiseCNN训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="778" y="40" width="178" height="48" as="geometry" />
