@@ -14,7 +14,7 @@
           <mxGeometry x="394" y="-54" width="71" height="142" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-101" value="生成数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="568" y="40" width="140" height="48" as="geometry" />
+          <mxGeometry x="495" y="-54" width="67" height="143" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-102" value="DenoiseCNN训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="778" y="40" width="178" height="48" as="geometry" />
