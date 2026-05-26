@@ -40,6 +40,9 @@
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-127" target="sRIhw2hVqTCFYBx5-HW0-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sRIhw2hVqTCFYBx5-HW0-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-127" target="sRIhw2hVqTCFYBx5-HW0-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-127" value="图形界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="610" width="125" height="49" as="geometry" />
         </mxCell>
@@ -98,14 +101,6 @@
             <mxPoint x="220" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="184" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sRIhw2hVqTCFYBx5-HW0-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.464;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-127" target="sRIhw2hVqTCFYBx5-HW0-128">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="635" />
-              <mxPoint x="120" y="688" />
             </Array>
           </mxGeometry>
         </mxCell>
