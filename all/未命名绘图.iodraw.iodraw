@@ -29,7 +29,7 @@
           <mxGeometry x="110" y="540" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-127" value="图形界面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="152" y="837" width="125" height="49" as="geometry" />
+          <mxGeometry x="110" y="610" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-128" value="单样本去噪对比" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="936" width="173" height="49" as="geometry" />
