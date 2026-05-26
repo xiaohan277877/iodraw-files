@@ -52,13 +52,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-85" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.33;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-71" target="sRIhw2hVqTCFYBx5-HW0-72">
-          <mxGeometry x="0.0155" y="22" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="1252" />
-              <mxPoint x="960" y="1252" />
               <mxPoint x="1507" y="1252" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-86" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sRIhw2hVqTCFYBx5-HW0-71" target="sRIhw2hVqTCFYBx5-HW0-73">
