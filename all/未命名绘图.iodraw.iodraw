@@ -11,13 +11,13 @@
           <mxGeometry x="149" y="119" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-122" value="训练模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="321" width="125" height="49" as="geometry" />
+          <mxGeometry x="31" y="258" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-123" value="生成数据集" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82" y="420" width="141" height="49" as="geometry" />
+          <mxGeometry x="20" y="346" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-124" value="DenoiseCNN训练" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="63" y="541" width="179" height="49" as="geometry" />
+          <mxGeometry x="3" y="459" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="sRIhw2hVqTCFYBx5-HW0-125" value="保存模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="89" y="640" width="126" height="49" as="geometry" />
