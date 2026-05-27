@@ -108,13 +108,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-19" value="阶段" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2220" y="133" width="82" height="82" as="geometry" />
+          <mxGeometry x="2160" y="134" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-20" value="MSE Loss" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2300" y="240" width="123" height="49" as="geometry" />
+          <mxGeometry x="2230" y="240" width="123" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-21" value="输出 SNR" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2300" y="60" width="125" height="49" as="geometry" />
+          <mxGeometry x="2240" y="60" width="125" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
