@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1300" dy="1369" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="1073" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -39,27 +39,27 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-61" value="含噪信号 x" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-61" value="含噪信号 x" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="421" y="-354" width="138" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-62" value="输入卷积 + 10个残差块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-62" value="输入卷积 + 10个残差块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-270" width="226" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-63" value="输出卷积&#xa;噪声估计 n_hat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-63" value="输出卷积&#xa;噪声估计 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="-280" width="170" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-64" value="相减" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-64" value="相减" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="-354" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-65" value="去噪信号 s_hat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-65" value="去噪信号 s_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="-354" width="168" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-62" target="Qw5UT7kOKa90W5to8PRH-63">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-62" target="Qw5UT7kOKa90W5to8PRH-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0;entryY=0.04;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-61" target="Qw5UT7kOKa90W5to8PRH-64">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0;entryY=0.04;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-61" target="Qw5UT7kOKa90W5to8PRH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="584" y="-364" />
@@ -67,14 +67,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.96;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-63" target="Qw5UT7kOKa90W5to8PRH-64">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.96;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-63" target="Qw5UT7kOKa90W5to8PRH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1081" y="-295" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-64" target="Qw5UT7kOKa90W5to8PRH-65">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-64" target="Qw5UT7kOKa90W5to8PRH-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
