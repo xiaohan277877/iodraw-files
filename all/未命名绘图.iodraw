@@ -89,6 +89,9 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-16" value="Conv1d 输出 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1724" y="240" width="195" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-17" target="Qw5UT7kOKa90W5to8PRH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-17" value="相减" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1900" y="150" width="94" height="49" as="geometry" />
         </mxCell>
