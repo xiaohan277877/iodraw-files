@@ -91,13 +91,6 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-79" value="去噪信号&#xa;ŝ = x - n̂" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1441" y="324" width="128" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-74" target="Qw5UT7kOKa90W5to8PRH-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444" y="396" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-75" target="Qw5UT7kOKa90W5to8PRH-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -106,14 +99,6 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-76" target="Qw5UT7kOKa90W5to8PRH-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-74" target="Qw5UT7kOKa90W5to8PRH-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="444" y="319" />
-              <mxPoint x="1208" y="319" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.94;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-77" target="Qw5UT7kOKa90W5to8PRH-78">
