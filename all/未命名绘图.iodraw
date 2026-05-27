@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2391" dy="1923" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1346" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -62,31 +62,31 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-13" value="含噪IQ序列 x" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-13" value="含噪IQ序列 x" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1217" y="152" width="153" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-14" value="Conv1d+BN+ReLU" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-14" value="Conv1d+BN+ReLU" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1314" y="258" width="184" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-15" value="残差块 1..11" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1534" y="263" width="151" height="49" as="geometry" />
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-15" value="残差块 1..11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1530" y="263" width="151" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-16" value="Conv1d 输出 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-16" value="Conv1d 输出 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1724" y="264" width="195" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-17" value="相减" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-17" value="相减" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1981" y="180" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-18" value="去噪信号 s_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-18" value="去噪信号 s_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2113" y="184" width="168" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-19" value="阶段" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-19" value="阶段" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2323" y="166" width="82" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-20" value="MSE Loss" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-20" value="MSE Loss" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2450" y="261" width="123" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-21" value="输出 SNR" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-21" value="输出 SNR" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2452" y="123" width="125" height="49" as="geometry" />
         </mxCell>
       </root>
