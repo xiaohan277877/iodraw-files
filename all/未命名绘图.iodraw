@@ -7,6 +7,9 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-0" value="残差块内部" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="310" width="1147" height="158" as="geometry" />
         </mxCell>
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Qw5UT7kOKa90W5to8PRH-0" source="Qw5UT7kOKa90W5to8PRH-1" target="Qw5UT7kOKa90W5to8PRH-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-1" value="输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="20" y="53" width="93" height="49" as="geometry" />
         </mxCell>
