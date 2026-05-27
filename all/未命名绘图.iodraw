@@ -42,11 +42,17 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-61" target="Qw5UT7kOKa90W5to8PRH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-61" target="Qw5UT7kOKa90W5to8PRH-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-61" value="含噪信号 x" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="421" y="-354" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-62" value="输入卷积 + 10个残差块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-63" target="Qw5UT7kOKa90W5to8PRH-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-63" value="输出卷积&#xa;噪声估计 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="-280" width="150" height="60" as="geometry" />
