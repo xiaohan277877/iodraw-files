@@ -82,6 +82,9 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-76" value="堆叠残差块 ×10" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="741" y="350" width="109" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-77" target="Qw5UT7kOKa90W5to8PRH-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-77" value="输出卷积层&#xa;Conv1d K=3, same pad&#xa;输出噪声估计 n̂" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="350" width="222" height="88" as="geometry" />
         </mxCell>
@@ -89,7 +92,7 @@
           <mxGeometry x="1170" y="310" width="158" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-79" value="去噪信号&#xa;ŝ = x - n̂" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1441" y="324" width="128" height="66" as="geometry" />
+          <mxGeometry x="1370" y="310" width="128" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-75" target="Qw5UT7kOKa90W5to8PRH-76">
           <mxGeometry relative="1" as="geometry">
