@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Qw5UT7kOKa90W5to8PRH-0" value="残差块内部" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="310" width="1147" height="158" as="geometry" />
+          <mxGeometry x="1210" y="300" width="1147" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-1" value="输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="20" y="53" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-2" value="Conv1d+BN+ReLU" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
-          <mxGeometry x="213" y="90" width="184" height="49" as="geometry" />
+          <mxGeometry x="213" y="100" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-3" value="Conv1d+BN" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="470" y="100" width="140" height="49" as="geometry" />
@@ -65,7 +65,7 @@
             <mxPoint x="620" y="130" as="sourcePoint" />
             <mxPoint x="670" y="80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="125" />
+              <mxPoint x="734" y="125" />
             </Array>
           </mxGeometry>
         </mxCell>
