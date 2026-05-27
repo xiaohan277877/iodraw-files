@@ -80,7 +80,7 @@
           <mxGeometry x="469" y="354" width="222" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-76" value="堆叠残差块 ×10" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="741" y="371" width="171" height="49" as="geometry" />
+          <mxGeometry x="741" y="350" width="109" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-77" value="输出卷积层&#xa;Conv1d K=3, same pad&#xa;输出噪声估计 n̂" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="962" y="354" width="222" height="84" as="geometry" />
