@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="595" dy="1522" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="195" dy="1122" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Qw5UT7kOKa90W5to8PRH-0" value="残差块内部" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1014" y="-139" width="1147" height="158" as="geometry" />
+          <mxGeometry x="1223" y="310" width="1147" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-1" value="输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="46" y="53" width="93" height="49" as="geometry" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-3" value="Conv1d+BN" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="472" y="83" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Qw5UT7kOKa90W5to8PRH-0" source="Qw5UT7kOKa90W5to8PRH-4" target="Qw5UT7kOKa90W5to8PRH-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-4" value="相加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Qw5UT7kOKa90W5to8PRH-0">
           <mxGeometry x="687" y="53" width="93" height="49" as="geometry" />
