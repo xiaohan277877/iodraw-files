@@ -60,7 +60,7 @@
         <mxCell id="Qw5UT7kOKa90W5to8PRH-64" value="相减" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="-350" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Qw5UT7kOKa90W5to8PRH-65" value="去噪信号 s_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qw5UT7kOKa90W5to8PRH-65" value="去噪信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970" y="-350" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qw5UT7kOKa90W5to8PRH-62" target="Qw5UT7kOKa90W5to8PRH-63">
