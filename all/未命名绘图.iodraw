@@ -66,10 +66,10 @@
           <mxGeometry x="1217" y="152" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-14" value="Conv1d+BN+ReLU" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1314" y="258" width="184" height="49" as="geometry" />
+          <mxGeometry x="1320" y="240" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-15" value="残差块 1..11" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1540" y="263" width="151" height="49" as="geometry" />
+          <mxGeometry x="1560" y="240" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Qw5UT7kOKa90W5to8PRH-16" value="Conv1d 输出 n_hat" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1724" y="264" width="195" height="49" as="geometry" />
